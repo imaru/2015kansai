@@ -135,7 +135,7 @@
 
 - 学内外との共同研究
   - 不安・発達障害関係の査定・介入手法開発 [1](https://kaken.nii.ac.jp/d/p/21330161.ja.html), [2](https://kaken.nii.ac.jp/d/p/21243040.ja.html), [3](https://kaken.nii.ac.jp/d/p/23730869.ja.html)
-  - いじめの長期的影響に関する調査 [1](http://www.hpsj.org/journal/目次), [2](../2014JSEE/index.html)
+  - いじめの長期的影響に関する調査 [1](http://www.hpsj.org/journal/目次),  [2](../2014JSEE/index.html)
 - 学内他分野との教員の共同研究
   - 3D映像の影響[1](https://kaken.nii.ac.jp/d/p/25280102.ja.html), [2](../2014HCS/index.html), [3](../2015AandC/index.html)
 
