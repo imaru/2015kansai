@@ -138,3 +138,12 @@
   - いじめの長期的影響に関する調査 [1](http://www.hpsj.org/journal/目次), [2](../2014JSEE/reveal.js/index.html)
 - 学内の他分野との教員の共同研究
   - 3D映像の影響[1](https://kaken.nii.ac.jp/d/p/25280102.ja.html), [2](../2014HCS/index.html), [3](../2015AandC/index.html)
+
+
+
+
+
+
+## 3年間半の軌跡
+
+![run](./run.png)
